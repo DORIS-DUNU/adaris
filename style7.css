@@ -1,0 +1,252 @@
+body{
+	font-family: 'Lobster Two', cursive;
+}
+.mylogo{
+	width: 66px;
+}
+.lst{
+	list-style-type: none;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    list-style-type: none;
+    padding-left: 0;
+    text-decoration: none;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+.ff{
+	font-size: 33px;
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+.MT{
+	margin-top: 50px;
+}
+.navcor{
+	background-color: white;
+    border-color: white;
+}
+
+.mybrand{
+	float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 55px;
+    line-height: 40px;
+    font-family: 'Baloo Tammudu', cursive;
+    color: black;
+    margin-left: 50px;
+}
+
+.mybrand:hover .ml .ml2{
+	text-decoration: none;
+}		
+
+.nav>li>a:hover{
+	text-decoration: none;
+    background-color: transparent;
+}
+
+.ml{
+	margin-left: 200px;
+    font-size: 19px;
+    font-weight: 500;
+    color: black;
+}
+
+.ml2{
+	margin-left: 30px;
+    font-size: 19px;
+    font-weight: 500;
+    color: black;
+}
+
+.ml3{
+	margin-left: 130px;
+
+}
+
+
+.fs{
+	font-size: 26px;
+	font-family: source sans pro;
+}
+.fb{
+	font-size: 14px;
+    font-weight: bold;
+}
+.mtt{
+	margin-top: 150px;
+}
+.fts{
+	font-size: 42px;
+	margin-top: 100px;
+}
+.fp{
+	font-size: 20px;
+	color: white;
+}
+.bbimg{
+	background-image: url(img/fashionshopping.JPG);
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.ch{
+	color: white;
+}
+
+.ch:hover{
+	text-decoration: none;
+	color: white;
+}
+.bb{
+	background-color: grey;
+
+}
+.tcc{
+    list-style-type:none;
+    font-size: 11px;
+     color: #8a8a8a;
+     line-height: 20px;
+      padding-left: 0;
+  }
+  .pp{
+    color: #fff;
+    font-family: source sans pro;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin-top: 50px;
+}
+.cff{
+	font-size: 50px;
+    font-family: source sans pro;
+    margin-top: 137px;
+}
+
+.footerContainer {
+	background-color: black;
+    position: absolute;
+    width: 97%;
+}
+.copyright{
+	color:white;
+    font-size: 1em;
+	text-align: center;
+	background-color: black;
+	background-size: 20%;
+}
+.fss{
+	font-size: 30px;
+}
+ .fontsi{
+ 	font-size: 16px;
+ 	color: white;
+ }
+.fontsi:hover{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+ .btt{
+    background-color: #1f2021;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    color: white;
+    padding: 7px 129px;
+    margin-top: 7px;
+}
+.sb{
+    padding: 10px 118px 10px 15px;
+    font-size: 15px;
+    border: solid #03000470;
+}
+
+ .ch1{
+ 	color: black;
+ }   
+
+ .sbb{padding: 10px 58px 10px 7px;
+    font-size: 15px;
+    border-radius: 7px;
+}
+.btt2{background-color: #1f2021;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    color: white;
+    padding: 7px 68px;
+    margin-top: 7px;
+}
+.chb{
+	color: black;
+}
+
+.td{
+
+	color: black;
+}
+.td a:hover{
+	color: black;
+	text-decoration:line-under;
+
+}
+
+.td:hover{
+	color: black;
+	text-decoration:line-under;
+
+}
+
+.fps{
+	font-size: 15px;
+}
+
+.fff{
+	font-family: source sans pro;
+}
+.bgimg{
+	background-image: url(img/whitebag.png);
+	 background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+
+}
+
